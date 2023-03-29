@@ -5,4 +5,5 @@
 
 
 generate_report.py - generates report (logic of calculating uptime and downtime is here) \
-data_ingest.py - to ingest csv to postgres 
+data_ingest.py - to ingest csv to postgres \
+models are in models package, models.py is added by mistake
